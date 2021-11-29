@@ -8,6 +8,8 @@ Part of tests are in project-example-test-lek24-29-11-2021/ catalog.
 Tests were made in Selenium using Java language. 
 In shortcut: in these project I used POM(Page Object Model), TestNG and screenshot capture library.
 
+![tests-pass](https://user-images.githubusercontent.com/25203503/143909432-ff688ef9-2b4e-4e4e-9c3d-e8abad1f109c.png)
+
 Figma 
 ---
 View of products in category (mobile version).
